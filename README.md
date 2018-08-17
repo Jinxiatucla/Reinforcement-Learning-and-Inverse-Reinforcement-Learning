@@ -34,3 +34,7 @@ Usage
 7. question18-24.ipynb solution for Q18-24
 8. question25_1.ipynb solution for Q25 with the modification to solve one of the discrepancy
 9. question25_2.ipynb solution for Q25 with the modification to solve the both discrepancies
+
+Contributors:
+---
+Committed by Jinxi Zou, Qinyi Tang, Shuo Bai, Xuan Hu. Original project page: https://github.com/bai3shuo4/232E/tree/master/Project3
