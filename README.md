@@ -16,6 +16,9 @@ Project 3
 ├── question6-8.ipynb
 └── question9.ipynb
 ```
+Problem Statement:
+---
+Project 3 statement.pdf
 
 Introduction
 ---
